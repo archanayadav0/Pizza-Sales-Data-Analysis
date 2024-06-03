@@ -17,5 +17,31 @@ KPI's Requirement:-
 (3.) Total Pizza Sold
 (4.) Total Orders
 (5.) Average pizzas per order
+Chart Requirement:-
+(1.) Daily Trends Of Total Orders
+(2.) Monthly Trends for Total orders
+(3.) % of Sales by Pizza category
+(4.) % of sales by Pizza Size
+(5.) Total pizza Sold by Category
+(6.) Top 5 best selles by revenue
+(7.) Bottom 5 best selles by revenue
+### Result
+- Higher Demand on Weekends.
+- Seasonal Demand.
+- Classic and vaggie Pizza's have more sales.
+- Mostly orderd Pizza are Larger Size.
+- XXl size of pizza has very less sales only 2%.
+  All Quaries which is used in for fetching results are presented in "PIZZA_SALES_SQL_QUERIES1".
+  The result are represented by a powerBI dashboard"Pizza result.pbix".
+### Recomendation
+- Increase staff and prepare additional inventory for Fridays and Saturdays to handle the surge in sales.
+- Launch summer promotions and deals to capitalize on the increased demand in May, July, August.
+- Focus marketing efforts on classic and veggie pizzas, and ensure a robust supply of ingredients for these popular choices.
+- Promote deals and combos featuring large-sized pizzas to meet customer preferences.
+- Consider reducing the XXL size
+
+
+
+
 
 
