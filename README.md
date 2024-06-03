@@ -1,4 +1,7 @@
 ### Pizza-Sales-Data-Analysis
+- [Project Overview](#project-overview)
+- [Result](#result)
+- [Recommendation](#recommendation)
 ### Project Overview
 we need to analyze key indicators for our pizza sales data to gain insights into our business performance.
 ### Data Source
@@ -33,7 +36,7 @@ Chart Requirement:-
 - XXl size of pizza has very less sales only 2%.
   All Quaries which is used in for fetching results are presented in "PIZZA_SALES_SQL_QUERIES1".
   The result are represented by a powerBI dashboard"Pizza result.pbix".
-### Recomendation
+### Recommendation
 - Increase staff and prepare additional inventory for Fridays and Saturdays to handle the surge in sales.
 - Launch summer promotions and deals to capitalize on the increased demand in May, July, August.
 - Focus marketing efforts on classic and veggie pizzas, and ensure a robust supply of ingredients for these popular choices.
